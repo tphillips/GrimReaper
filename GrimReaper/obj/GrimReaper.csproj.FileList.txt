@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GrimReaper.Properties.Resources.resources
+obj\Debug\GrimReaper.csproj.GenerateResource.Cache
+bin\Debug\GrimReaper.exe
+bin\Debug\GrimReaper.pdb
+obj\Debug\GrimReaper.exe
+obj\Debug\GrimReaper.pdb
